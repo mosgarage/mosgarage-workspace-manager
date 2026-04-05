@@ -41,8 +41,8 @@ If you prefer to do it manually:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/amartelr/antigravity-workspace-manager.git
-cd antigravity-workspace-manager
+git clone https://github.com/mosgarage/mosgarage-workspace-manager.git
+cd mosgarage-workspace-manager
 
 # 2. Initialize
 python3 workspace-manager.py init
